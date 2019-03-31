@@ -14,7 +14,8 @@ Linux Mint 19 Tara and Thunderbird 60.2.1
 Devuan ASCII with Thunderbird version 60.2.1 (64-bits)  
 Ubuntu MATE LTS 18.04 AMD64 and Thunderbird 60.2.1  
 Fedora 27, Thunderbird 60.2.1 (64-bit)  
-Debian 9.5 x64 Thunderbird 60.3.0  
+Debian 9.5 x64 Thunderbird 60.3.0
+Archlinux MATE, Budgie, LXDE, with Thunderbird 60.5.3 (64-bit)
 
 Thank you for testing !!!  
 
